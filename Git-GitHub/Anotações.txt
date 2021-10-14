@@ -1,0 +1,45 @@
+# Anotações de Git e GitHub
+		   ||
+	     Repositório Online
+
+       GUI             X           CLI 
+Composta por todos             Git (forma de interagir
+os gráficos utilizados         por linha de comandos)
+pelo usuário.
+
+---------- " " ----------
+Sha1 -> Algoritmo de encriptação
+(é um conjunto de funções hash creptográficas
+projetadas pelo NSA)
+
+
+## Objetos Internos do Git
+
+Blobs - > contem meta dados
+          objetos
+	  sha1 do arquivo
+
+Tree - > Armazenam blobs
+         apontam para os blobls -
+	 tem sha1 criptados
+
+Commit - > objeto de junta tudo
+
+------------------ " " -------------------
+## Primeiros Comandos com Git
+
+git init -> iniciar repositório do git/cria pasta oculta
+git add. -> iniciar versionamento
+git commit -m "nome commit" -> criar commit
+ls -a -> ver arquivos ocultos
+cd .. -> volta um npivel
+cd -> entra em uma pasta específica
+git config --global user.email "......"
+git config --global user.name ......
+git status -> mostra status dos arquivos 
+mv -> comando para mover
+mkdir nomeprojeto -> cria nova pasta
+ls - lista arquivos na pasta
+git push -> pega o repositório da máquina e joga para o remoto
+git pull -> baixar ultimas alterações feitas no repositório remoto
+

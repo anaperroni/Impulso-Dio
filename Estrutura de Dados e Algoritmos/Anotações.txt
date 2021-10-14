@@ -1,0 +1,122 @@
+# Estrutura de Dados e Algoritmos
+
+Estrutura de Dados --> estrutura organizada de dados
+na memória de um computador ou em qualquer dispositivo
+de armazenamento
+
+Em uma estrutura de dados deve-se saber como realizar
+um determinado conjunto de operações básicas, como 
+por exemplo:
+*Inserir dados, excluir dados, localizar um elemento,
+classificar, percorrer todos os itens constituintes da
+estrutura para visualização
+
+-------------------- " " ---------------
+
+## Principais Estrutura de Dados
+
+Vetores e Matrizes (arrays)            Árvore
+Registro 		             Tabela Hash                 
+Lista                                  Grafos
+Pilha
+Fila
+
+---------------------- " " --------------------
+
+## Vetores e Matrizes (arrays)
+
+São estrutura de dados simples que podem auxiliar
+quando há muitas variáveis do mesmo tipo em um algoritmo
+
+Vetor ou Array --> Uni-dimensional  - é uma variável
+que armazena várias variáveis do mesmo tipo
+
+Vetor é uma estrutura de dados indexada, que pode armazenar
+uma determinada quantidade  de valores do mesmo tipo
+
+Matriz ou Array --> multi-dimensional. 
+Uma matriz é  um vetor que possui duas ou mais dimensões.
+
+
+------------------------ " " -----------------------
+
+## Registros 
+
+É uma estrutura  que fornece um formato especializado para
+armazenar informações em memória. Permite armazenar mais
+de um tipo de dado.
+
+Um registro é composto por campos que especificam cada
+uma das informações que o compõem
+
+TODA estrutura de registro tem um nome e seus campos
+podem ser acessados por meio do operador ponto (.)
+
+
+-------------------- " " -------------------
+
+## Listas, Pilhas e Filas
+
+Listas --> armazena dados de um determinado tipo
+em ordem específica e possuem tamanho ajustável.
+
+Dois tipos de listas: Ligadas e Duplamente Ligadas
+				       ||
+				constituem uma variação
+				das listas ligadas. (bidirecionais)
+				Sabem quem é o prox elemento e quem
+				era o elemento anterior. (Navegação Reversa)
+
+Pilhas --> Estrutura de dados que serve como uma coleção
+de elementos e permite o acesso somente de um item de dados armazenados.
+O acesso aos itens de uma pilha são restritos - somente um
+item pode ser lido ou removido por vez
+
+Tipos de Pilhas: 
+
+LIFO ou UEPS (Last in Firts Out ou Último que entra Primeiro que Sai):
+O primeiro elemento a ser retirado é o
+último que tiver sendo inserido.
+
+FIFO ou PEPS (First in Fisrt Out ou Primeiro que entra Primeiro que sai):
+O primeiro elemento a ser retirado é o primeiro que tiver sido inserido.
+
+
+Filas --> admite remoção de elementos e inserção de novos sujeita à 
+seguinte regra de operação:
+- O elemento removido é o que está na estrutura há mais tempo, ou seja, 
+o primeiro objeto inserido na fila é também o primeiro a ser removido seguindo 
+o conceito FIFO.
+
+----------------------------------- " " ---------------------------------------
+## Estrutura do tipo Árvore, Tabela Hash e Grafos
+
+Árvores --> estrutura de dados que organizam seus elementos de forma hierárquica.
+Um elemento fica no topo da árvore e é chamado de raiz, existem os elementos subordinados
+que são chamados de nós ou folhas.
+
+Tabela Hash --> Estrutura de dados especial, que associa chaves de pesquisa e valores.
+Utiliza uma função denominada Hasing para espalhar os elementos, fazendo comque
+os mesmos fiquem de forma não ordenada dentro do "array" que define a tabela.
+
+** A tabela hash permite a associação de "valores" a "chaves"
+Valores -> é a posição ou índice onde elemento se encontra
+Chave -> parte da informação que compõe o elemento a ser manipulado
+
+Grafos --> Estruturas que permitem programas a relação entre objetos.
+Objetos são vértices ou "nós" do grafo. Os relacionamento são arestas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

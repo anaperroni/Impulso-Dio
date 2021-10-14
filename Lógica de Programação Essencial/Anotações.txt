@@ -1,0 +1,128 @@
+# Anotações - Lógica de Programação Essencial 
+
+Programar = Resolver Problemas
+Lógica --> Coerência de raciocínio, de idéias, sequência coerente.
+
+Lógica de Programação -> contextualizar a lógica na
+programação de computadores, buscando a melhor 
+sequência de idéias para resolver um problema 
+
+Metacognição -> Pensar como você pensa
+
+----------------------- " " -----------------------
+## Algoritmo e Pseudocódigo
+
+Algoritmo --> Sequência de passos para resolver 
+um problema
+
+Pseudocódigo --> Forma genérica de escrever um
+algoritmo, utilizando uma linguagem simples
+(nativa, em português)
+
+-------------------- " " ------------------------
+## Fluxograma, Variáveis e Constantes
+
+Fluxograma --> Ferramente usada para representar
+graficamente um algoritmo, sequência lógica
+
+Variáveis --> Na programação, variável é um obtejo.
+Capaz de reter e representar um valor ou expressão.
+Tipos de Variáveis: Variáveis e Constantes podem ser 
+classificadas como: Numéricas, Caracteres, Alfanúmeros
+ou Lógicas
+
+
+
+---------------------- " " -------------------------
+
+## Tomadas de Decisões e Expressões
+
+Expressão Aritmética --> Expressões que utilizam operadores
+aritméticos que envolve constantes e variáveis
+( + , - , * , / , ^ , % ) 
+
+Expressões Laterais --> Expressões constantes e/ou
+variáveis que tem como resultado valores literais.
+
+Expressões Relacionais --> Expressões compostas por
+outras expressões ou variáveis numéricas com operadores
+relacionais. As expressões relacionais retornam
+valores lógicos (Verdadeiro/Falso)
+
+// 
+
+( > , >= , < , <= , == , != ) 
+
+Concatenação --> Unir conteúdo de duas strings*
+( & ou + -> usado no vscode)
+
+string -> sequência de caracteres
+
+---------------------- " " --------------------------
+
+# Introdução ao Portugol
+
+Portugol --> É uma pseudo linguagem que permite
+desenvolver algoritmos estruturados em português, de forma
+simples independente de qualquer linguaguem de programação
+
+Estrtutura de Repetição --> é uma estrutura
+que permite  executar mais de uma vez o mesmo
+comando, de acordo com uma condição ou contador
+
+Linguagem de Programação --> Linguagem escrita
+e formal que especifica um conjunto de instruções
+e regras usadas para gerar um software
+
+
+Baixo Nível         X          Alto Nível
+
+se aproxima                   Se proxima mais   
+mais da linguagem            da nossa linguaguem
+da máquina                    e menos da máquina
+                            Js,C++, Python e etc
+
+
+
+Compiladas          X        Interpretadas
+
+o código fonte              o código fonte é executado
+é executado direta-         por um programa de computador
+mente pelo sistema          
+operacional ou pelo
+processador
+
+----------------------- " " ----------------------
+
+## Desvios Condicionais e Comentários
+
+SE --> Condição a ser testada entre parenteses e 
+as instruções que devem ser executadas entre chaves 
+caso o desvio for verdadeiro
+SENÃO --> Se a condição for falsa outro conjunto
+de comandos devem ser executados
+Caso --> Reduz a complexibilidade na escolha de 
+diversas opções.
+Este comando apenas trabalha com valores definidos.
+
+--------------------- " " ------------------------
+
+        Matriz                    Vetores
+
+Coleção de variáveis de          São matrizes de uma
+mesmo tipo, acessíveis com       só dimensão
+um único nome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
